@@ -21,7 +21,7 @@
   - [IIC Website](https://github.com/haripriya79/IICWebsite) <span>(MongoDB, Express, React, Node Js)<span>
   - [Pixel2k22](https://github.com/haripriya79/Pixel2k22) <span>(MySQL, PHP, HTML, CSS, JavaScript)<span>
 - <b>Frontend Development</b>
-   - [Around US](https://github.com/haripriya79/AroundUS) <span>(MySQL, PHP, HTML, CSS, JavaScript)<span>
+   - [Around US](https://github.com/haripriya79/AroundUS) <span>(HTML, CSS, Bootstrap, JavaScript)<span>
 - <b>Mobile Application Development</b>
   - [College Guest House Management System](https://github.com/haripriya79/guest-house-app)<span>(Flutter, Dart, Firebase)</span>
   - [Consolidated Health Utilities System](https://github.com/haripriya79/chub)<span>(Flutter, Dart, Firebase)</span>
