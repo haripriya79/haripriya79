@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently learning more about **Java and Spring**
 
-- 👨‍💻 All of my projects are available at [haripriya79](https://github.com/haripriya79)
+- 👨‍💻 All of my projects are available at [haripriya79](https://haripriyag.netlify.app/)
 
 - 💬 Ask me about **flutter, React, Java, Node.Js**
 
